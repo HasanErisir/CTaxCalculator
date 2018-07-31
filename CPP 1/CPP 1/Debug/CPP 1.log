@@ -1,0 +1,4 @@
+﻿  CPP 1.cpp
+c:\users\nova\source\repos\cpp 1\cpp 1\cpp 1.cpp(18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\nova\source\repos\cpp 1\cpp 1\cpp 1.cpp(25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  CPP 1.vcxproj -> C:\Users\Nova\source\repos\CPP 1\Debug\CPP 1.exe
